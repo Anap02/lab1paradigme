@@ -1,6 +1,6 @@
 
 package logica;
 public interface Somn {
-    public void dorm();
+    void dorm();
 
 }
